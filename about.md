@@ -8,7 +8,7 @@ I am a Web Designer and Graphic artist based in east Kent. I enjoy creating smar
 
 ### More Information
 
-After studying graphic design at A level and getting a good grade (A*) I wasn't too sure what to do with myself. Studying Economics at Kent sounded like a good idea until I realised what I really want to do is make pretty things on the internet. So pretty much everything I've taught myself (with some fantastic help from friends) and like to experiment on different projects to push my limits and learn more.
+After studying graphic design at A level and getting a good grade (A*) I wasn't too sure what to do with myself. Studying Economics at Kent sounded like a good idea until I realised what I really want to do is make pretty things on the internet. So pretty much everything I've done I had to teech myself (with some fantastic help from friends), with this I've had a lot of fun and I like to experiment on different projects to push my limits and learn more.
 
 I also work part time at the Bottle Shop in Canterbury.
 
