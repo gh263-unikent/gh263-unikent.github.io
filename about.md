@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a Web Designer and Graphic artist based in east Kent. I enjoy creating smart, entertaining and functional web sites and eye catching branding.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gwyn@inkythesquid.co.uk](mailto:email@domain.com)
