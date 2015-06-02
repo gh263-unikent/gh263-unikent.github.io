@@ -14,4 +14,4 @@ I also work part time at the Bottle Shop in Canterbury. You can find me there mo
 
 ### Contact me
 
-[gwyn@inkythesquid.co.uk](mailto:email@domain.com)
+[gwyn@inkythesquid.co.uk](mailto:gwyn@inkythesquid.co.uk)
