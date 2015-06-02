@@ -3,8 +3,10 @@ layout: post
 title: Some facts(mostly) about squid
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+First blog post! Now, what to write? Not sure...
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Thanks for clicking on something that would direct you here. I hope to make the effort of you slightly exerting pressure with your finger worth it with some interesting and posibly informative blog posts.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Did you know that squid have eight arms and two tenticals? Fact. See were learning already, didn't I say informative?
+
+
